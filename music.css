@@ -1,0 +1,73 @@
+body{
+background-color: #7035ac;
+background-image: url(https://colors.dopely.top/inside-colors/wp-content/uploads/2021/06/colorful-backgrounds-38-2048x1280.jpg);
+background-size: cover;
+
+}
+
+h1{
+    
+    text-align: center;
+    border-bottom: 1px solid #9BB291;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color: #E4B7E5;
+    margin: auto;
+}
+
+header {
+    background-color: #E4B7E5;
+}
+
+.current-song {
+    color: #E4B7E5;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+}
+
+#search {
+    padding: 1px;
+    text-align: center;
+    color: #E4B7E5;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-bottom: 1px solid #63458A;
+    font-size: 20px;
+}
+
+#search-button {
+    background-color: #A03E99;
+}
+
+#results {
+    text-align: center;
+    flex-wrap: wrap;
+    display: flex;
+   
+    padding: 3px;
+    background-color: #B288C0;
+    border: 1rem solid #7E5A9B;
+}
+
+.record {
+    
+    padding: 10px;
+ width: 150px;
+ text-align: center;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ background-color: #E4B7E5;
+ color: #0A014F;
+ align-content: space-between;
+ border: 1px solid #9A48D0;
+
+}
+
+.record:hover {
+    background-color: #7E5A9B;
+}
+
+#audio-preview {
+    width: 1700px
+    
+}
